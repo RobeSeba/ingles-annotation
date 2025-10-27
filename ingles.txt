@@ -6,12 +6,15 @@ pick up     ------------->  recoger algo o alguien (generalmente en vehiculo)
 put on      ------------->  vestirse
 take off    ------------->  quitarse algo o despegar
 turn on     ------------->  prender  turn off apagar
+------------------------------------------------------------------------------ 
 
 tidy        -------------> ordenada
 hairdressed -------------> peluquera
 washing machine ---------> lavadora
 bring       -------------> traer(una persona a un lugar) 
 appointment -------------> cita(doctor)
+
+------------------------------------------------------------------------------ 
 
 cash        -------------> dinero
 credit card -------------> tarjeta de credito
@@ -26,6 +29,8 @@ shop online -------------> compra en linea
 shopping center----------> centro comercial
 special offer -----------> oferta especial
 
+------------------------------------------------------------------------------ 
+
 how many    -------------> contable
 how much    -------------> no contable
 some        -------------> algunos
@@ -37,5 +42,24 @@ spoonful of -------------> cucharada de
 groceries   -------------> comestibles
 judge       -------------> juez
 waiter      -------------> mozo
- 
+price       ------------->premio
+school play -------------> obra escolar
 
+------------------------------------------------------------------------------ 
+
+sing/cantar -------------> sang(past) canto
+have/tener  -------------> had(past) tuvo 
+make/hacer  -------------> made(past) preparo
+come/ ven   -------------> came(past) vino
+go / ir     -------------> went(past) fue
+get / conseguir----------> got(past) consiguio
+buy/ comprar-------------> bought(past) comprado
+teach / enseñar----------> taught(past) enseño
+take / tomar|llevar------> took(past) lleve
+laugh / reir ------------> laughed (past) reimos
+see / ver    ------------> saw (past) vi 
+hear / oir   ------------> heard (past) oi
+draw / dibujar-----------> drew (past) dibujo
+bring / traer -----------> brought (past) trajo
+win/gane    -------------> wont(past) ganar
+begin / comenzar --------> began(past) comenzo
