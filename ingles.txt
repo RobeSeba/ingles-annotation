@@ -1,0 +1,41 @@
+fill out    ------------->  llenar/completar(formulario)
+get back    ------------->  retroceder
+get off     ------------->  bajar de / escapar
+look after  ------------->  cuidar
+pick up     ------------->  recoger algo o alguien (generalmente en vehiculo)
+put on      ------------->  vestirse
+take off    ------------->  quitarse algo o despegar
+turn on     ------------->  prender  turn off apagar
+
+tidy        -------------> ordenada
+hairdressed -------------> peluquera
+washing machine ---------> lavadora
+bring       -------------> traer(una persona a un lugar) 
+appointment -------------> cita(doctor)
+
+cash        -------------> dinero
+credit card -------------> tarjeta de credito
+customer    -------------> cliente
+deliver     -------------> entregar
+delivery    -------------> entrega() sustantivo
+department store --------> tienda grandre que vende variedad de productos
+item        -------------> thing / cosa
+sale        -------------> venta por oferta
+salesperson -------------> vendedora
+shop online -------------> compra en linea
+shopping center----------> centro comercial
+special offer -----------> oferta especial
+
+how many    -------------> contable
+how much    -------------> no contable
+some        -------------> algunos
+any         -------------> ninguno
+piece of    -------------> paper
+two cups    -------------> of coffe
+four bottles of----------> shampoo
+spoonful of -------------> cucharada de
+groceries   -------------> comestibles
+judge       -------------> juez
+waiter      -------------> mozo
+ 
+
